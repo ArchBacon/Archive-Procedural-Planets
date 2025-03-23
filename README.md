@@ -1,1 +1,1 @@
-Archive of code wihtout any NDA stuffs and including a write up i did for it.
+Archive of code without any NDA stuff, including a write-up I did.
